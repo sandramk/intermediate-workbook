@@ -148,8 +148,8 @@ var notNotUndefined = false;
 //
 // Your Answer Goes Here:
 //Truthiness is a concept used to describe emotionally positive values.
-//A variable assigned a value is "truthy" because it has been assigned a value,
-// such as "string" or 5.
+//A value such as "string" or 5 is "truthy" because it is emotionally positive,
+//in addition to the boolean operator true.
 //Falsiness is the converse of truthiness.  It means the value is emotionally
 //negative or is undefined.  E.g. 0, null, false.
 // ****
