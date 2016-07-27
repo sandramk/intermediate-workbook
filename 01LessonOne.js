@@ -210,8 +210,8 @@ var stringFourStrictNotEqualsNumberFour = true;
 // What’s the difference between == and ===?
 //
 // Your Answer Goes Here:
-//The == evaluates the expression for equal value.  It is able to
-//coerce one value type to match another value type, e.g. the
+//The == evaluates the expression for equal value, regardless of type.
+//It is able to coerce one value type to match another value type, e.g. the
 //integer 4 would be equal to the string 4 using the == operand.  The ===
 //operand checks for equal value and equal type.  Therefore only
 //'4' === '4' is true, or 4 === 4.
